@@ -1,0 +1,37 @@
+
+
+{
+    "medicamentos":[
+        {"id": 1, "nome": "dorflex", "tipo":"generico", "preco": 6.79, "quantidade": 10},
+        {"id": 2, "nome": "dipirona", "tipo":"generico", "preco": 5.69, "quantidade": 10},
+        {"id": 3, "nome": "neosaldina", "tipo":"original", "preco": 30.79, "quantidade": 30},
+        {"id": 4, "nome": "aspirina", "tipo":"generico", "preco": 18.79, "quantidade": 10}
+    ],
+
+    "higiene-pessoal":[
+        {"id": 1, "nome": "desodorante", "tipo":"aerosol", "preco": 8.69, "quantidade": "150ml"},
+        {"id": 2, "nome": "creme dental", "preco": 5.99, "quantidade": "100g"},
+        {"id": 3, "nome": "papel higienico", "preco": 7.99, "quantidade": 4},
+        {"id": 4, "nome": "sabonete", "tipo":"liquido", "preco": 9.79, "quantidade": "250ml"}
+    ],
+
+    "funcionarios":[
+        {"nome": "Juliana", "cargo": "caixa", "id": 1111, "salario": "2500"},
+        {"nome": "Sandra", "cargo": "farmaceutica", "id": 2222, "salario": "3500"},
+        {"nome": "Geraldo", "cargo": "vigilante", "id": 3333, "salario": "2800"},
+        {"nome": "Rafaela", "cargo": "limpeza", "id": 4444, "salario": "2100"}
+    ],
+    "clientes":[
+        {"nome": "Iolanda", "cpf": "111.111.111.-11"
+        , "id": 111, "telefone": "99999-9999"},
+
+        {"nome": "Givanildo", "cpf": "222.222.222.-22"
+        , "id": 222, "telefone": "88888-8888"},
+
+        {"nome": "Larissa", "cpf": "333.333.333.-33"
+        , "id": 333, "telefone": "77777-7777"},
+        
+        {"nome": "Ronaldo", "cpf": "444.444.444.-44"
+        , "id": 444, "telefone": "66666-6666"}
+    ] 
+}
